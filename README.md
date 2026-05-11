@@ -1,6 +1,6 @@
 # PasteBoardChecker
 
-本文档总结下ios14.6版本的完整阶段从Frida Hook→Tweak编写的完整过程
+本文档总结下ios14.6版本的完整阶段从Frida Hook→Tweak编写的完整过程，经过后续测试本tweak也可以直接运行在ios 26.0中（通过vphone-cli模拟）
 
 - 本文所需要的基础设备如下：
 - 测试机器：iphone7 ios14.6（已越狱）
