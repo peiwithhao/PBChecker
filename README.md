@@ -1,4 +1,4 @@
-# PasteBoardHacker
+# PasteBoardChecker
 
 本文档总结下ios14.6版本的完整阶段从Frida Hook→Tweak编写的完整过程
 
