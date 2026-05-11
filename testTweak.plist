@@ -1,0 +1,9 @@
+{ Filter = { Bundles = (
+"com.meituan.imeituan",
+"com.apple.measure",
+"com.apple.podcasts",
+"com.apple.mobilenotes",
+"com.apple.mobileslideshow",
+"com.apple.mobilesafari",
+"com.tigisoftware.Filza"
+); }; }
